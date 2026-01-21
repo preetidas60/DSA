@@ -1,3 +1,4 @@
+package day03;
 import java.util.*;
 
 public class DistinctElement {
